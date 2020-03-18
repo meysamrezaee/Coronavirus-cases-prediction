@@ -1,2 +1,2 @@
-# Coronavirus cases prediction
- Making predictions about the Coronavirus pandemic
+# Coronavirus world case prediction
+Goal: Making predictions about the Coronavirus pandemic in the world
