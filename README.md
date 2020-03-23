@@ -13,4 +13,6 @@ Challenges:
   
 Results:
   - Future number of Coronavirus cases was forcasted for days into the future with high accuracy
-  
+
+Usage:
+  - This analysis is meant to be an exercise of machine learning techniques only and is not meant to be used as a substitute for specialized field decisions.
